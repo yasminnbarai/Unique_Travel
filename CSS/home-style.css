@@ -1,7 +1,30 @@
+header {
+  text-align: center;
+  background-image: url("../img/beach.jpeg");
+  background-size: cover;
+  min-height: 725px;
+}
 h1 {
-  color: skyblue;
-  font-size: 70px;
+  color: white;
+  font-size: 250px;
+  padding: 0px 0px 0px 0px;
 }
 img {
-  margin: 40
+  margin: 40px 0px 0px 0px
+}
+ul{
+  padding: 10px;
+  background: white;
+  text-align: center;
+  color: skyblue;
+  }
+li{
+  display: inline;
+  padding: 0px 10px 0px 10px
+}
+a {
+  color: skyblue;
+}
+h2{
+  text-align: center;
 }
