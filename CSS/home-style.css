@@ -12,7 +12,10 @@ h1 {
 h2{
   color: white;
   font-size: 50px;
+  font-style: italic;
   text-align: right;
+  position: relative;
+  bottom: 100px;
 }
 img {
   margin: 40px 0px 0px 0px
@@ -31,8 +34,4 @@ li{
 }
 a {
   color: skyblue;
-}
-h2{
-  text-align: center;
-  font-size: 30px;
 }
