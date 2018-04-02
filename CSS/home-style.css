@@ -5,12 +5,12 @@ header {
   min-height: 725px;
 }
 h1 {
-  color: white;
+  color: Floralwhite;
   font-size: 200px;
-  padding: 0px 0px 0px 0px;
+  padding: 10px 0px 0px 0px;
 }
 h2{
-  color: white;
+  color: Floralwhite;
   font-size: 50px;
   font-style: italic;
   text-align: right;
@@ -19,6 +19,7 @@ h2{
 }
 img {
   margin: 40px 0px 0px 0px
+  display:block;
 }
 ul{
   padding: 10px;
@@ -54,4 +55,8 @@ a {
 .topnav a.active {
     background-color: #4CAF50;
     color: white;
+}
+input {
+  width:200px;
+  height:
 }
