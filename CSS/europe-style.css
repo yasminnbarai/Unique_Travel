@@ -2,3 +2,19 @@ h1 {
   color: skyblue;
   font-size: 100px;
 }
+ul {
+  padding: 10px;
+  background: white;
+  font-size: 15px;
+  font-family: sans-serif;
+  text-align: center;
+  color: skyblue;
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px
+}
+.topnav {
+    background-color: skyblue;
+    overflow: hidden;
+}
