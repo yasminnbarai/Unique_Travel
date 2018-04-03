@@ -1,0 +1,37 @@
+header {
+  text-align: center;
+  image: url("../img/lagos.jpg");
+  image: url("../img/capetown.jpg");
+  image: url("../img/egypt.jpg");
+  background-size: cover;
+  opacity: 0.80;
+  min-height: 725px;
+}
+img {
+  margin: 40px 0px 0px 0px
+  display:block;
+}
+img:hover {
+  opacity: 0.70
+}
+h1 {
+  color: skyblue;
+  font-size: 100px;
+  text-align: center;
+}
+ul {
+  padding: 10px;
+  background: white;
+  font-size: 15px;
+  font-family: sans-serif;
+  text-align: center;
+  color: darkgoldenrod;
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px
+}
+.topnav {
+    background-color: skyblue;
+    overflow: hidden;
+}
