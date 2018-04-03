@@ -4,6 +4,7 @@ header {
   image: url("../img/capetown.jpg");
   image: url("../img/egypt.jpg");
   background-size: cover;
+  background-color: floralwhite;
   opacity: 0.80;
   min-height: 725px;
 }
@@ -32,6 +33,6 @@ li {
   padding: 0px 10px 0px 10px
 }
 .topnav {
-    background-color: skyblue;
+    background-color: aliceblue;
     overflow: hidden;
 }
