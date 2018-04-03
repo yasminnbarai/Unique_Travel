@@ -3,6 +3,7 @@ header {
   background-image: url("../img/beach.jpeg");
   background-size: cover;
   min-height: 725px;
+  opacity: 0.70;
 }
 h1 {
   color: Floralwhite;
@@ -66,4 +67,7 @@ form {
   color: skyblue;
   font-weight: bold;
   font-size: 20px;
+}
+.form-control {
+  padding-left: 20px;
 }
