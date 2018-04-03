@@ -1,8 +1,8 @@
 header {
   text-align: center;
-  background-image: url("../img/mykonos.jpg");
-  background-image: url("../img/rome.jpg");
-  background-image: url("../img/rome2.jpg");
+  image: url("../img/mykonos.jpg");
+  image: url("../img/rome.jpg");
+  image: url("../img/rome2.jpg");
   background-size: cover;
   opacity: 0.80;
   min-height: 725px;
