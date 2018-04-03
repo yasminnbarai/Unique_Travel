@@ -1,0 +1,73 @@
+header {
+  text-align: center;
+  background-image: url("../img/beach.jpeg");
+  background-size: cover;
+  min-height: 725px;
+  opacity: 0.70;
+}
+h1 {
+  color: Floralwhite;
+  font-size: 200px;
+  padding: 10px 0px 0px 0px;
+}
+h2{
+  color: Floralwhite;
+  font-size: 50px;
+  font-style: italic;
+  text-align: right;
+  position: relative;
+  bottom: 100px;
+  padding-right: 30px;
+}
+img {
+  margin: 40px 0px 0px 0px
+  display:block;
+}
+ul{
+  padding: 10px;
+  background: white;
+  font-size: 20px;
+  font-family: sans-serif;
+  text-align: center;
+  color: skyblue;
+  }
+li{
+  display: inline;
+  padding: 0px 10px 0px 10px
+}
+a {
+  color: skyblue;
+}
+.topnav {
+    background-color: skyblue;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 25px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+input {
+  width:200px;
+  height:
+}
+form {
+  text-align: center;
+  color: skyblue;
+  font-weight: bold;
+  font-size: 20px;
+}
+.form-control {
+  padding-left: 20px;
+}
