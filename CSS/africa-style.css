@@ -1,9 +1,10 @@
 header {
   text-align: center;
-  background-image: url("../img/mykonos.jpg");
-  background-image: url("../img/rome.jpg");
-  background-image: url("../img/rome2.jpg");
+  image: url("../img/lagos.jpg");
+  image: url("../img/capetown.jpg");
+  image: url("../img/egypt.jpg");
   background-size: cover;
+  background-color: floralwhite;
   opacity: 0.80;
   min-height: 725px;
 }
@@ -25,7 +26,7 @@ ul {
   font-size: 15px;
   font-family: sans-serif;
   text-align: center;
-  color: skyblue;
+  color: darkgoldenrod;
 }
 li {
   display: inline;

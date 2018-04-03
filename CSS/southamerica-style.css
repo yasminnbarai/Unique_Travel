@@ -1,0 +1,21 @@
+h1 {
+  color: skyblue;
+  font-size: 100px;
+  text-align: center;
+}
+ul {
+  padding: 10px;
+  background: white;
+  font-size: 15px;
+  font-family: sans-serif;
+  text-align: center;
+  color: darkgoldenrod;
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px
+}
+.topnav {
+    background-color: aliceblue;
+    overflow: hidden;
+}
